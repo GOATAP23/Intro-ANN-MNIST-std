@@ -1,1 +1,0 @@
-# Intro-ANN-MNIST-std
